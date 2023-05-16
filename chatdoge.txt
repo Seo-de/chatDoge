@@ -1,0 +1,4 @@
+https://platform.openai.com/playground?mode=chat
+시스템은 내가 값을 주는거야 ex) 너는 최고의 점성술사야 -> 최대한 가스라이팅을 해줘야 모든 답에 답을 줄 수 있대
+
+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
