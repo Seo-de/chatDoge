@@ -1,4 +1,4 @@
-const apiKey = "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"
+const apiKey = "챗지피티API 접속해서 새로운 키 받아서 붙여넣기 하자!"
 const serverless = require('serverless-http');
 const { Configuration, OpenAIApi } = require("openai");
 const express = require('express')
